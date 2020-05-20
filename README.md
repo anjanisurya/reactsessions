@@ -1,2 +1,0 @@
-# reactsessions
-Created with CodeSandbox
