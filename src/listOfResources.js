@@ -5,7 +5,10 @@ class ListOfResources extends Component {
       <div>
         <div>List of names</div>
         <p>Srilalithas</p>
-        <p />
+        <p>John Allen</p>
+        <p>Hanu</p>
+        <p>ES6</p>
+        <p>React JS</p>
       </div>
     );
   }
